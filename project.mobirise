@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.luxter.ml\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:07834760989\" aria-expanded=\"false\">07834760989</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -313,7 +313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11176.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11177.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -398,7 +398,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11176.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11177.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -545,7 +545,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11176.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11177.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
