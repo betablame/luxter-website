@@ -114,9 +114,9 @@
               "src": "@PROJECT_PATH@/assets/images/branding-656x128-62.png",
               "height": 128,
               "alt": "Luxter",
-              "link": "https://www.'luxter.ml",
+              "link": "http://www.luxter.ml",
               "title": "Lighting Control and Programming based in Berkhamsted",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -313,7 +313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11172.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11173.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -398,7 +398,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11172.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11173.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -483,7 +483,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11172.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11173.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
