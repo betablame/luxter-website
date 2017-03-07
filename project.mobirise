@@ -31,7 +31,7 @@
       "settings": {
         "main": true,
         "title": "Luxter Home",
-        "meta_descr": "<meta>\n<meta>",
+        "meta_descr": "<meta name=\"description\" content=\"Lighting installation services based in Berkhamsted. Custom systems designed and installed in your home.\" />\n<meta name=\"keywords\" content=\"Custom Installation, Custom, Installation, Design, Lighting, Lutron, Crestron, RTI, Rako, Dynalite,  Smart Home, Security, Wifi, Wireless, Networking\" />",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
