@@ -16,7 +16,7 @@
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
+        "subtitleFont": "Raleway",
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
@@ -132,7 +132,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "60px"
             }
           },
           "_anchor": "header1-1",
@@ -156,7 +156,7 @@
             "showButtons": false
           },
           "title": "LIGHTING DESIGN<br>and CONTROL",
-          "text": "Lighting Control can transform any space to provide the best combination of natural and artificial light. Through decent design and using control solutions like automated shades and dimmable fixtures, you can accent your environment to suit any task or mood.&nbsp;",
+          "text": "<b>Lighting Control can transform any space to provide the best combination of natural and artificial light. Through decent design and using control solutions like automated shades and dimmable fixtures, you can accent your environment to suit any task or mood.&nbsp;</b>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-9\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         },
         {
@@ -313,7 +313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11177.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11178.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -398,7 +398,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11177.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11178.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -545,7 +545,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11177.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11178.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
