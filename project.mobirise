@@ -115,7 +115,7 @@
               "height": 128,
               "alt": "Luxter",
               "link": "https://www'luxter.ml",
-              "title": "Lighting Design and Installation",
+              "title": "Lighting Control and Programming based in Berkhamsted",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -313,7 +313,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11170.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11171.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -398,7 +398,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11170.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11171.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -483,7 +483,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11170.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11171.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -744,7 +744,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><br>\nEmail: <a href=\"mailto:melv@marvelav.com\">melv@marvelav.com</a><br>\nPhone: <a href=\"tel:07834760989\">07834760989</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.betablame.ml\" target=\"_blank\">Website Design by Betablame</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://www.marvelav.com\">Audio Visual Solutions by Marvel AV</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"http://www.betablame.ml\" target=\"_blank\">Website Design by Betablame</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"http://www.marvelav.com\">Audio Visual Solutions by Marvel AV</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><br></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "melv@marvelav.com",
