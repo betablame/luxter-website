@@ -31,7 +31,7 @@
       "settings": {
         "main": true,
         "title": "Luxter Home",
-        "meta_descr": "",
+        "meta_descr": "<meta>\n<meta>",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
