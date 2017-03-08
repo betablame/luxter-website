@@ -138,7 +138,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x1117.png",
+            "bgImage": "qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
