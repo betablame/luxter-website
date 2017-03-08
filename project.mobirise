@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
-    "uniqCompNum": 21,
+    "uniqCompNum": 22,
     "versionPublish": "3.11.1",
     "name": "Luxter",
     "theme": {
@@ -24,7 +24,8 @@
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x96.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -128,14 +129,11 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.luxter.ml\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"tel:07834760989\" aria-expanded=\"false\">07834760989</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
-          "_anchor": "header1-1",
+          "_anchor": "header1-l",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
@@ -147,7 +145,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
@@ -155,9 +153,9 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "LIGHTING DESIGN<br>and CONTROL",
-          "text": "<b>Lighting Control can transform any space to provide the best combination of natural and artificial light. Through decent design and using control solutions like automated shades and dimmable fixtures, you can accent your environment to suit any task or mood.&nbsp;</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#header3-9\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+          "title": "LIGHTING DESIGN <br>and CONTROL",
+          "text": "Lighting Control can transform any space to provide the best combination of natural and artificial light. Through decent design and using control solutions like automated shades and dimmable fixtures, you can accent your environment to suit any task or mood.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -313,7 +311,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11178.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11170.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -398,7 +396,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11178.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11170.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -545,7 +543,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11178.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x11170.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
