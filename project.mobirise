@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 24,
-    "versionPublish": "3.11.1",
+    "versionPublish": "3.12.1",
     "name": "Luxter",
     "theme": {
       "name": "mobirise3",
@@ -20,7 +20,8 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x96.png",
@@ -135,10 +136,10 @@
           "_name": "header1",
           "_anchor": "header1-l",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/20008-9-2000x1125-31.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/edison-lamp-2000x1117.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -156,40 +157,6 @@
           "title": "LIGHTING DESIGN <br>and CONTROL",
           "text": "Lighting Control can transform any space to provide the best combination of natural and artificial light. Through decent design and using control solutions like automated shades and dimmable fixtures, you can accent your environment to suit any task or mood.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-n",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "4",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "LIGHTING DESIGN&nbsp;<div>and CONTROL</div>",
-          "text": "<p>Lighting Control can transform any space to provide the best combination of natural and artificial light. Through decent design and using control solutions like automated shades and dimmable fixtures, you can accent your environment to suit any task or mood.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
