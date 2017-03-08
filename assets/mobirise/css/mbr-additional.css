@@ -477,6 +477,22 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#content5-o .mbr-section-title,
+#content5-o p {
+  color: #fff;
+}
+#content5-p .mbr-section-title,
+#content5-p p {
+  color: #fff;
+}
+#content5-q .mbr-section-title,
+#content5-q p {
+  color: #fff;
+}
+#content5-r .mbr-section-title,
+#content5-r p {
+  color: #fff;
+}
 #header3-9 .mbr-section-title,
 #header3-9 .mbr-section-subtitle {
   text-align: center;
@@ -484,10 +500,25 @@ h6,
 #header3-9 H3 {
   color: #ffffff;
 }
+#content5-s .mbr-section-title,
+#content5-s p {
+  color: #fff;
+}
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-5 H3 {
+  color: #ffffff;
+}
+#content5-t .mbr-section-title,
+#content5-t p {
+  color: #fff;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u H3 {
   color: #ffffff;
 }
